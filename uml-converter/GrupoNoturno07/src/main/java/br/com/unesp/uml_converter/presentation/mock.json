@@ -1,0 +1,33 @@
+{
+    "projectName": "Locadora",
+    "objects": [
+        {
+            "objectName": "Pessoa",
+            "attributes": [
+                {
+                    "modifier": "private",
+                    "type": "String",
+                    "name": "nome",
+                    "value": "Daniel"
+                },
+                {
+                    "modifier": "private",
+                    "type": "String",
+                    "name": "cpf",
+                    "value": "000.000.000-00"
+                }
+            ]
+        },
+        {
+            "objectName": "Filme",
+            "attributes": [
+                {
+                    "modifier": "private",
+                    "type": "String",
+                    "name": "nome",
+                    "value": "Tubarao 2"
+                }
+            ]
+        }
+    ]
+}
